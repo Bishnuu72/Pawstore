@@ -3,7 +3,7 @@ import { FiSearch } from "react-icons/fi";
 
 const Navbar = () => {
   return (
-    <nav className="bg-[#FFF1DE] px-20 py-10 flex items-center justify-between">
+    <nav className="bg-[#FFF1DE] px-20 py-5 flex items-center justify-between">
       {/* Logo */}
       <div className="flex items-center space-x-2">
         <span className="text-2xl">🐶</span>
